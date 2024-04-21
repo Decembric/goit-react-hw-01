@@ -1,0 +1,35 @@
+.history {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.headerRow {
+  background-color: #3498db;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+
+.itemRow {
+  padding: 8px;
+}
+
+.type {
+  border: 1px solid rgb(40, 40, 40);
+  background-color: #eceaec;
+  padding: 10px;
+}
+
+.amount {
+  border: 1px solid rgb(40, 40, 40);
+  background-color: #eceaec;
+  padding: 10px;
+}
+
+.currency {
+  border: 1px solid rgb(40, 40, 40);
+  background-color: #eceaec;
+  padding: 10px;
+}

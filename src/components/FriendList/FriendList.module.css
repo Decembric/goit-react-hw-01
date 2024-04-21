@@ -1,0 +1,20 @@
+.red {
+  display: inline-block;
+  font-size: 12px;
+  color: red;
+  text-align: center;
+}
+
+.green {
+  display: inline-block;
+  font-size: 12px;
+  color: green;
+  text-align: center;
+}
+
+.cardList {
+  display: flex;
+  gap: 50px;
+  list-style: none;
+  font-size: 18px;
+}

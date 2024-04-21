@@ -1,0 +1,30 @@
+.userProfile {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color: #f1eded;
+  width: 600px;
+  padding: 30px;
+  text-align: center;
+}
+
+.avatar {
+  border: 1px solid #1e1e1e;
+  border-radius: 50%;
+  background-color: #494747cd;
+  justify-content: center;
+}
+
+.profileStatsItem {
+  padding: 20px;
+  border: 1px solid #474646;
+  display: flex;
+  flex-direction: column;
+  width: calc(100% / 3);
+  background-color: gray;
+}
+
+.profileStatsList {
+  display: flex;
+}
